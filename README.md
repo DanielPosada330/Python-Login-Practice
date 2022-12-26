@@ -1,0 +1,2 @@
+# Python testing
+I am currently working through Automate the Boring Stuff in Python. I am learning about for expressions and furthering my experience and knowledge with booleans by creating a simple login system that tracks the amount of times a user incorrectly puts either a username or password. I am also practicing nesting for expressions within each other to better understand flow statements and making sure my understanding is correct.
